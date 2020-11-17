@@ -1,6 +1,8 @@
 # javascript-challenge
 # JavaScript Homework - JavaScript and DOM Manipulation
 
+![/images/Galaxy.png](/images/Galaxy.png)
+
 ## Background
 
 The company`ALIENS-R-REAL` needs you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). Their data collection of UFO sightings is too large to search through manually. You also need to allow their users to filter the table data for specific values. There's a catch though... they only use pure JavaScript, HTML, and CSS, and D3.js on their web pages. 
