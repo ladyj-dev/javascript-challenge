@@ -1,5 +1,5 @@
 # javascript-challenge
-# JavaScript Homework - JavaScript and DOM Manipulation
+# JavaScript Homework - JavaScript and DOM Manipulation https://ladyj-dev.github.io/javascript-challenge/
 
 ![/images/Galaxy.png](/images/Galaxy.png)
 
